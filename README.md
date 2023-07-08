@@ -1,2 +1,3 @@
-# BharatIntern-t2
-a temperature converter to convert temperature from celcius to farhenhiet and vice versa
+# oasis-info-task-3
+# BharatIntern-T2
+# BharatIntern-T2
